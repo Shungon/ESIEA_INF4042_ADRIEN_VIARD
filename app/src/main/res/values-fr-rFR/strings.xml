@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESIEA_INF4042_ADRIEN_VIARD</string>
+    <!-- activity_main -->
+    <string name="btn_all_images">Toutes les images</string>
+    <string name="btn_settings">Paramètre</string>
+    <string name="btn_my_images">Mes images</string>
+    <string name="description_app">Cette application permet de télécharger des images depuis un fichier JSON. Cliquez sur \"Toutes les images\" pour voir le choix proposé.</string>
+    <!-- activitty_all_images -->
+    <string name="loadingDialogTitle">Chargement du dialog</string>
+    <string name="loadingDialogMessage">Chargement en cours ...</string>
+    <!-- image_items -->
+    <string name="image_description">Image</string>
+    <string name="image_title">Titre</string>
+    <string name="image_type">Type</string>
+    <string name="image_directors">Producteur(s)</string>
+    <string name="image_nationality">Nationalité</string>
+    <string name="image_actors">Acteur(s)</string>
+    <string name="image_characters">Personage(s)</string>
+    <string name="image_producer">Distributeur</string>
+    <!-- ImageItems -->
+    <string name="image_item_title">Titre: </string>
+    <string name="image_item_type">Type: </string>
+    <string name="image_item_directors">Producteurs: </string>
+    <string name="image_item_nationality">Nationalité: </string>
+    <string name="image_item_actors">Acteurs: </string>
+    <string name="image_item_characters">Personnage: </string>
+    <string name="image_item_producer">Distributeur: </string>
+    <!-- activity_store_image-->
+    <string name="btn_store_image">Save Image</string>
+    <!-- menu -->
+    <string name="m_start_activity">Accueil</string>
+    <string name="m_my_images">My images</string>
+    <string name="m_all_images">Toutes les images</string>
+    <string name="m_settings">Préférences</string>
+    <!-- user_settings -->
+    <string name="preference_color">Couleur arrière-plan</string>
+    <string name="preference_color_summary">Change la couleur de l arrière plan</string>
+    <!-- settings -->
+    <string name="menu_settings">Je sais pas</string>
+</resources>

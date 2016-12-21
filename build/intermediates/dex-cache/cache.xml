@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_80e9d110d4c128191e523579374ef07f4629e8c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c61732c6accfc3f0c11484a7d24192204c65395b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_5ace9017fdd4a8fe21180497b7f775e6e05357bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_30b2805fa8943d847cbd3ee402a0c864f5b30798/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0709405d7fc5283a5fd209049ef4d4964c2e1773/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="226c21b9daed9dd38d2b76ef7772b7f65cd408e7">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0855e0299e2ab671005a6b121bffecbcde1ad8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b934cfd6e06644abe48203109e0170fd6c81bff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_21da05d405510d46089919adce3cc7e1f183eceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_378c1825a65e85d62e12c10ff8b7d98b0b67e552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_61198674b1914ec17c7c966fa6fb999bf2b430d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_4b1012ba764690fc34297aa135b377445f7d48ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1d6b3b23a92555e51bfaf187fd5e0e6633dda8f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9e1a42cf41557e0eaac492b0cfba273718a518e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6631f21dbf6f54f3b4ad525d6973563902c52d70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9da91532a19dd07521eb62eccaaf5348f7bb18cc">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe3d260c7ee03415c6359e89839b727667f147c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_98ce7012af37123d8a27b8e8f5c47ff0cbc02dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_b3fb004805ec7e29b19218f5cedfc74a4032a835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_3f31c4bdd2576e94bae53ce99d1d99090e965f31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6684d9ea77c85ce351ef03e7c167ab1eb22cbedf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_010117b3069475fb472156d2afa86c0f7b40c0ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_250a0ce6f2e18be4580e93512d531f3a42a1e98c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Clems/AndroidStudioProjects/ESIEA_INF4042_ADRIEN_VIARD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_17422e1bc355574b59fd59ce649e2070939bf561/classes.dex" />
+    </item>
+
+</items>

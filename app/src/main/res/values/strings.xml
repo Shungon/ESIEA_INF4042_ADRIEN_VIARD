@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ESIEA_INF4042_ADRIEN_VIARD</string>
+    <!-- activity_main -->
+    <string name="btn_all_images">All Images</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_my_images">My Images</string>
+    <string name="description_app">This app allows the user to download images from a JSONFile. Click on All IMAGES to see all the choice proposed.</string>
+    <!-- activitty_all_images -->
+    <string name="loadingDialogTitle">Loading Dialog</string>
+    <string name="loadingDialogMessage">Loading in progress ...</string>
+    <!-- image_items -->
+    <string name="image_description">Image</string>
+    <string name="image_title">Title</string>
+    <string name="image_type">Type</string>
+    <string name="image_directors">Director(s)</string>
+    <string name="image_nationality">Nationality</string>
+    <string name="image_actors">Actor(s)</string>
+    <string name="image_characters">Character(s)</string>
+    <string name="image_producer">Producer</string>
+    <!-- ImageItems -->
+    <string name="image_item_title">Title: </string>
+    <string name="image_item_type">Type: </string>
+    <string name="image_item_directors">Director(s): </string>
+    <string name="image_item_nationality">Nationality: </string>
+    <string name="image_item_actors">Actors: </string>
+    <string name="image_item_characters">Characters: </string>
+    <string name="image_item_producer">Producer: </string>
+    <!-- activity_store_image-->
+    <string name="btn_store_image">Save Image</string>
+    <!-- menu -->
+    <string name="m_start_activity">Home page</string>
+    <string name="m_my_images">My images</string>
+    <string name="m_all_images">All images</string>
+    <string name="m_settings">Settings</string>
+    <!-- user_settings -->
+    <string name="preference_color">Background Color</string>
+    <string name="preference_color_summary">Change backgroung color</string>
+    <!-- settings -->
+    <string name="menu_settings">Je sais pas</string>
+</resources>
